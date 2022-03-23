@@ -6,3 +6,8 @@ li {
     padding: 5px;
     background-color: pink;
 }
+
+li:hover {
+    background-color: white;
+    color: pink;
+}
